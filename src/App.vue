@@ -8,7 +8,7 @@ export default {
 </script>
 
 <template>
-  <the-header title="Remember Me"></the-header>
+  <the-header title="Vue Essentials with Components"></the-header>
   <the-resources></the-resources>
 </template>
 
